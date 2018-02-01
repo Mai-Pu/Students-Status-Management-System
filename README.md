@@ -23,7 +23,7 @@
 * DevC++
 
  ### 三.系统总框架图
-![](https://github.com/Mai-Pu/students-status-management-system/raw/master/pic/1.png)
+![](https://github.com/Mai-Pu/Students-Status-Management-System/raw/master/pic/1.png)
 
 ### 四.程序类的说明
 * 结构体的声明
